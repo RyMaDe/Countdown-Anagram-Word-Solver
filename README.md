@@ -1,5 +1,5 @@
 # Countdown-Word-Anagram-Solver
-A solver for anagrams giving solutions of varying lengths. Inspired by the Channel 4 show Countdown.
+A solver for anagrams giving solutions of varying lengths.
 
 To run this program you will need an API key from Merriam Webster which is free and simple to obtain. You will then need to save this key in the config.py file.
 
